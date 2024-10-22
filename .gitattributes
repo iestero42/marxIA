@@ -1,0 +1,4 @@
+TrainModels/tb_logs/my_model/version_1/events.out.tfevents.1707734495.DESKTOP-E1V2M78.14628.7 filter=lfs diff=lfs merge=lfs -text
+TrainModels/marxIA/Transformer_prices/mejores_versiones_15m/version_5/events.out.tfevents.1709638254.DESKTOP-E1V2M78.15324.4 filter=lfs diff=lfs merge=lfs -text
+TrainModels/marxIA/Transformer_prices/versiones_inutiles/version_2/events.out.tfevents.1710262156.DESKTOP-E1V2M78.6952.6 filter=lfs diff=lfs merge=lfs -text
+TrainModels/marxIA/Transformer_prices/versiones_inutiles/version_3/events.out.tfevents.1710338518.DESKTOP-E1V2M78.16628.10 filter=lfs diff=lfs merge=lfs -text
